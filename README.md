@@ -1,2 +1,1 @@
-# Launcher
-Lemon Launcher's home repository
+# Lemon Launcher
